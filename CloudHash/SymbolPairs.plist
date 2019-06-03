@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>BCH/BTC</string>
+	<string>BCH/EUR</string>
+	<string>BCH/GBP</string>
+	<string>BCH/USD</string>
+	<string>BTC/EUR</string>
+	<string>BTC/GBP</string>
+	<string>BTC/RUB</string>
+	<string>BTC/USD</string>
+	<string>ETH/BTC</string>
+	<string>ETH/GBP</string>
+	<string>ETH/EUR</string>
+	<string>ETH/USD</string>
+	<string>GHS/BTC</string>
+	<string>DASH/BTC</string>
+	<string>DASH/USD</string>
+	<string>DASH/EUR</string>
+	<string>DASH/GBP</string>
+</array>
+</plist>
